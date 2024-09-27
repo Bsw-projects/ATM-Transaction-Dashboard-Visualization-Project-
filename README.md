@@ -7,8 +7,7 @@ The primary objective of this project is to analyze ATM transactions in India th
 - Power BI
   - Interactive dashboard used to report and explore sales trends can be found [here](https://app.powerbi.com/view?r=eyJrIjoiMDllMjA2ODQtOTBiMy00ZTk0LWEyYzQtMjkwOTIzYWZlMTZkIiwidCI6IjI3MWQ1ZTdiLTEzNTAtNGI5Ni1hYjg0LTUyZGJkYTRjZjQwYyIsImMiOjEwfQ%3D%3D). 
 - Figma
-  - Background used in the dashboard can be found [here](  https://drive.google.com/file/d/1n3ayDPN01YCqF_Ylm9mAOWqUQdHzayEu/view?usp=sharing
-).
+  - Background used in the dashboard can be found [here](https://embed.figma.com/design/wf1kvOEkKV8z9VcEEFfBRY/Figma-basics?node-id=601-18&embed-host=share).
 
 ## Snapshots of the dashboard
 ![dashboard_snapo](https://github.com/user-attachments/assets/ac9d671d-ef2c-477a-95fb-fe383c0735a1)
