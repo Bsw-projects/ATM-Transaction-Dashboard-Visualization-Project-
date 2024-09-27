@@ -13,4 +13,6 @@ The primary objective of this project is to analyze ATM transactions in India th
 ![dashboard_snapo](https://github.com/user-attachments/assets/ac9d671d-ef2c-477a-95fb-fe383c0735a1)
 ![dashboard_snapo](https://github.com/user-attachments/assets/48fa4032-c3b8-400a-baa9-2f1809e49e3f)
 
-
+## Background created in Figma
+![dashboard_snapo](https://github.com/user-attachments/assets/d6ffece9-27c1-4f73-8dee-3df154e72b28)
+![dashboard_snapo](https://github.com/user-attachments/assets/850278fe-96f0-4d3c-9f4a-6fbed0a70cfe)
