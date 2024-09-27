@@ -10,10 +10,8 @@ The primary objective of this project is to analyze ATM transactions in India th
   - Background used in the dashboard can be found [here](https://embed.figma.com/design/wf1kvOEkKV8z9VcEEFfBRY/Figma-basics?node-id=601-18&embed-host=share).
 
 ## Snapshots of the dashboard
-![dashboard1](https://github.com/user-attachments/assets/bb68c799-cd6a-4fdd-bba3-8a03705be9d5)
-![d2](https://github.com/user-attachments/assets/7de4e88e-6d04-47e7-ba06-e0e21d098451)
-
-![Snap_1](https://github.com/user-attachments/assets/c85fec29-313e-4f80-ae4b-6fd677137d81)
+![page1](https://github.com/user-attachments/assets/bb68c799-cd6a-4fdd-bba3-8a03705be9d5)
+![page2](https://github.com/user-attachments/assets/7de4e88e-6d04-47e7-ba06-e0e21d098451)
 
 ## Background created in Figma
 ![bg1](https://github.com/user-attachments/assets/5c483736-27cd-4c1d-8bc1-c4165b6c341d)
